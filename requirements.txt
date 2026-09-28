@@ -1,0 +1,9 @@
+requests>=2.31.0
+cryptography>=42.0.0
+xxhash>=3.4.1
+numpy>=1.26.0
+onnxruntime>=1.17.0
+Pillow>=10.2.0
+loguru>=0.7.2
+hcaptcha-challenger[playwright]>=0.8.0
+playwright>=1.42.0
